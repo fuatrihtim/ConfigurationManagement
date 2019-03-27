@@ -1,9 +1,3 @@
 # ConfigurationManagement
-# Test
-asdadasdasdasdasdasdsa
-sad
-asdadasdasdasdasdasdsaasd
-asdadasdasdasdasdasdsaad
-ad
-adada
-das
+
+Bu proje, konfigürasyonların dinamik olarak MongoDB'den çekilmesini ve belirli aralıklarla değişen değerlerin kontrol edilerek memory cache'te tutulmasını sağlar.
