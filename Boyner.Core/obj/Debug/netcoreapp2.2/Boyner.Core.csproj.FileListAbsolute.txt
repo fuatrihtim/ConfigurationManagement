@@ -1,0 +1,17 @@
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.deps.json
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.dll
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.csproj.CoreCompileInputs.cache
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.AssemblyInfoInputs.cache
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.AssemblyInfo.cs
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.pdb
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.dll
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.pdb
+C:\Users\FUAT\source\repos\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.csprojAssemblyReference.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.deps.json
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\bin\Debug\netcoreapp2.2\Boyner.Core.pdb
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.csproj.CoreCompileInputs.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.AssemblyInfoInputs.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.AssemblyInfo.cs
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Core\obj\Debug\netcoreapp2.2\Boyner.Core.pdb

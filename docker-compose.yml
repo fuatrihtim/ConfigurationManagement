@@ -1,0 +1,42 @@
+version: "3"
+services:
+  serviceA:
+    build: 
+        context: ./Boyner.ServiceA
+        dockerfile: Dockerfile
+    image: service-a
+    ports:
+      - "5002:80"
+    command: /bin/bash -c "dotnet restore ./src/app/Boyner.ServiceA.csproj && dotnet publish ./src/app/Boyner.ServiceA.csproj -c Release -o ./obj/Docker/publish"
+  serviceB:
+    build: 
+        context: ./Boyner.ServiceB
+        dockerfile: Dockerfile
+    image: service-b
+    ports:
+      - "5002:80"
+    command: /bin/bash -c "dotnet restore ./src/app/Boyner.ServiceA.csproj && dotnet publish ./src/app/Boyner.ServiceA.csproj -c Release -o ./obj/Docker/publish"
+  mongo:
+    container_name: mongo
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+         - mongodb-volume:/var/lib/mongodb
+  rabbitmq:
+    image: "rabbitmq:3-management"
+    hostname: "rabbit"
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    labels:
+      NAME: "rabbitmq"
+    volumes:
+      - ./rabbitmq-isolated.conf:/etc/rabbitmq/rabbitmq.config
+
+networks: 
+   
+volumes:
+    mongodb-volume:
+      external: true
+   

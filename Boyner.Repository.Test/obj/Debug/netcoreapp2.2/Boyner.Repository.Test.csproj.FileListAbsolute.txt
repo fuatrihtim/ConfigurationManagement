@@ -1,0 +1,17 @@
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Repository.Test.deps.json
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Repository.Test.runtimeconfig.json
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Repository.Test.runtimeconfig.dev.json
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Repository.Test.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Repository.Test.pdb
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Core.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\bin\Debug\netcoreapp2.2\Boyner.Core.pdb
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.csprojAssemblyReference.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.csproj.CoreCompileInputs.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.AssemblyInfoInputs.cache
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.AssemblyInfo.cs
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.csproj.CopyComplete
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.dll
+C:\Users\mrihtim\Desktop\Boyner.ConfigurationManagementAPI\Boyner.Repository.Test\obj\Debug\netcoreapp2.2\Boyner.Repository.Test.pdb
